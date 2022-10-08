@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,p {
+    margin-bottom: 16px;
+}
+
+@font-face {
+    font-family: ArtsyCat;
+    src: url(../css/fonts/ArtsyCatRegular-Regular.ttf.otf);
+}
+
+@font-face {
+    font-family: SourceSans;
+    src: url(../css/fonts/SourceSansPro-Regular.ttf);
+}
